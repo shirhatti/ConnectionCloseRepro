@@ -1,0 +1,3 @@
+*.cs text=auto diff=csharp
+
+*.sln text=auto eol=crlf
